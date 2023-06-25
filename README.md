@@ -18,6 +18,14 @@
       <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/guess1.gif" alt="NBA Legends App"></td>
     </tr>
   </tbody>
+  <tbody>
+     <tr>
+      <td>COUNTER</td></td>
+      <td><a href="https://github.com/mbozkayaGitHub/counter" target="_blank">Repo Details</td>
+      <td><a href="https://counter-zeta-peach.vercel.app/" target="_blank">Live App</td>
+      <td><img src="" alt="COUNTER"></td>
+    </tr>
+  </tbody>
 </table>
 GitHubGitHub
 GitHub - achieve-software/3guessnumber
