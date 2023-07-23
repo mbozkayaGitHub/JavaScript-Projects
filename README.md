@@ -29,7 +29,7 @@
       <td>COUNTER</td></td>
       <td><a href="https://github.com/mbozkayaGitHub/counter" target="_blank">Repo Details</td>
       <td><a href="https://counter-zeta-peach.vercel.app/" target="_blank">Live App</td>
-      <td><img src="" alt="COUNTER"></td>
+      <td><img src="https://github.com/mbozkayaGitHub/JavaScript-Projects/assets/119006810/fb85a078-42a0-40f7-a359-f53cd077686f" alt="COUNTER"></td>
     </tr>
   </tbody>
 </table>
