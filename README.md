@@ -33,6 +33,4 @@
     </tr>
   </tbody>
 </table>
-GitHubGitHub
-GitHub - achieve-software/3guessnumber
-Contribute to achieve-software/3guessnumber development by creating an account on GitHub. (95 kB)
+
