@@ -23,6 +23,12 @@
       <td><a href="https://serene-khapse-2e1043.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/guess1.gif" alt="NBA Legends App"></td>
     </tr>
+     <tr>
+      <td>ispalindrome</td></td>
+      <td><a href="https://github.com/mbozkayaGitHub/ispalindrome" target="_blank">Repo Details</td>
+      <td><a href="https://ispalindrome.vercel.app/" target="_blank">Live App</td>
+      <td><img src="https://github.com/mbozkayaGitHub/JavaScript-Projects/assets/119006810/f25543cd-406d-4417-b195-6f0d8f8d8859" alt="ispalindrome"></td>
+    </tr>
   </tbody>
   <tbody>
      <tr>
